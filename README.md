@@ -1,6 +1,6 @@
 # Mostafa ALZOUBI - Portfolio
 
-![Profile Picture](path/to/your/profile-picture.jpg)
+![Profile Picture](assets/8139.JPEG)
 
 ## About Me
 Mobile Developer (Flutter, native iOS) experienced in working with international teams and clients, seeking a new challenge.
