@@ -1,4 +1,4 @@
-# Mostafa ALZOUBI - Portfolio
+# Mostafa ALZOUBI 
 
 <img src="assets/8139.JPEG" alt="Profile Picture" width="150">
 
