@@ -7,10 +7,10 @@ Mobile Developer (Flutter, native iOS) experienced in working with international
 
 ## Apps
 
-### MicroREC (Custom Surgical, Munich, Germany Remote)
+### MicroREC (Custom Surgical, Munich, Germany)
 **Jan 2023 - Apr 2024**
-- **Description**: Photo and video capture app with cloud synchronization.
-- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![CloudKit](https://img.shields.io/badge/CloudKit-FFCA28?style=flat&logo=apple&logoColor=black) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+- **Description**: Photo and video capture app with cloud synchronization for Doctors.
+- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=swift&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![Core Animation](https://img.shields.io/badge/Core_Animation-2396F3?style=flat&logo=apple&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
 - **Features**:
   - Designing and implementing photo and video capture functionalities within the app.
   - Integrating cloud synchronization features for seamless data management and storage.
@@ -26,11 +26,12 @@ Mobile Developer (Flutter, native iOS) experienced in working with international
 ### Memo Chat (YAWAR, Erbil, Iraq)
 **Sep 2021 - Dec 2022**
 - **Description**: Real-time chat application with chat messaging, audio, and video call features.
-- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-333333?style=flat&logo=apple&logoColor=white)
+- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-333333?style=flat&logo=apple&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 - **Features**:
   - Built a real-time chat application with chat messaging, audio, and video call features.
 
-### Gamer VPN (Netnology, Dubai, UAE Remote)
+
+### Gamer VPN (Netnology, Dubai, UAE)
 **Apr 2021 - Dec 2021**
 - **Description**: Free lightweight VPN application.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-E3A400?style=flat&logo=openvpn&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
