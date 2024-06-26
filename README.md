@@ -16,13 +16,6 @@ Mobile Developer (Flutter, native iOS) experienced in working with international
   - Integrating cloud synchronization features for seamless data management and storage.
   - Collaborating on the development of advanced data management systems for efficient organization and retrieval of images and videos.
 
-### Pazar Iraq (YAWAR, Erbil, Iraq)
-**Sep 2021 - Dec 2022**
-- **Description**: Marketplace application facilitating buying and selling in Iraq.
-- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Core Data](https://img.shields.io/badge/Core_Data-0175C2?style=flat&logo=apple&logoColor=white)
-- **Features**:
-  - Implemented a marketplace application facilitating buying and selling in Iraq.
-
 ### Memo Chat (YAWAR, Erbil, Iraq)
 **Sep 2021 - Dec 2022**
 - **Description**: Real-time chat application with chat messaging, audio, and video call features.
