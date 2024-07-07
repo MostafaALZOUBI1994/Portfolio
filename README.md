@@ -53,6 +53,9 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 
 ### Qoafl (IXCoders, Damascus, Syria)
 **Feb 2021 - Jul 2021**
+---
+
+<img src="assets/Qoafl/1.webp" alt="" width="150"> <img src="assets/Qoafl/2.webp" alt="" width="150"> <img src="assets/Qoafl/3.webp" alt="" width="150"> <img src="assets/Qoafl/4.webp" alt="" width="150"> <img src="assets/Qoafl/5.webp" alt="" width="150">
 - **Description**: E-Commerce Application offering various products, shipment methods, and electronic payment options.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-88C7DC?style=flat&logo=flutter&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Online Payment](https://img.shields.io/badge/Online_Payment-00C853?style=flat&logo=payment&logoColor=white)
 - **Features**:
