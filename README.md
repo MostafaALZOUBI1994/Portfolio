@@ -23,6 +23,9 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 
 ### Memo Chat (YAWAR, Erbil, Iraq)
 **Sep 2021 - Dec 2022**
+---
+
+<img src="assets/Memo Nas/1.webp" alt="" width="150"> <img src="assets/Memo Nas/2.webp" alt="" width="150"> <img src="assets/Memo Nas/3.webp" alt="" width="150"> <img src="assets/Memo Nas/4.webp" alt="" width="150"> <img src="assets/Memo Nas/5.webp" alt="" width="150">
 - **Description**: Real-time chat application with chat messaging, audio, and video call features.
 - **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-333333?style=flat&logo=apple&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 - **Features**:
