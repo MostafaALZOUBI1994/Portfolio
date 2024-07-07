@@ -8,7 +8,7 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 ## Apps
 
 ### MicroREC (Custom Surgical, Munich, Germany)
-**Jan 2023 - Apr 2024**
+**Jan 2023 - Apr 2024** ---
 <img src="assets/MicroRec/1.webp" alt="" width="150">
 <img src="assets/MicroRec/2.webp" alt="" width="150">
 <img src="assets/MicroRec/4.webp" alt="" width="150">
