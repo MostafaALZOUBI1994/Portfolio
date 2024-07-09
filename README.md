@@ -250,16 +250,7 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-## Education
-**Damascus University** — Bachelor in Computer Engineering
-**Sep 2012 - Jul 2019**
-
-## Languages
-- **English**: B1
-- **German**: A2
-
 ## Contact
 - **Email**: [mostafaalzoubi1994@gmail.com](mailto:mostafaalzoubi1994@gmail.com)
 - **LinkedIn**: [Mostafa ALZOUBI](https://www.linkedin.com/in/Mostafa-ALZOUBI/)
-- **GitHub**: [MostafaALZOUBI1994](https://github.com/MostafaALZOUBI1994)
 
