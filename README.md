@@ -12,14 +12,14 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 
 <img src="assets/MicroRec/1.webp" alt="" width="150"> <img src="assets/MicroRec/2.webp" alt="" width="150"> <img src="assets/MicroRec/4.webp" alt="" width="150"> <img src="assets/MicroRec/5.webp" alt="" width="150"> <img src="assets/MicroRec/6.webp" alt="" width="150">
 
-- **Description**: Photo and video capture app with cloud synchronization.
+- **Description**: MicroRec is a specialized app designed for professionals in ophthalmology, endodontics, ENT, neurosurgery, and microscopy. It offers advanced data management for microscopic images and videos, including session organization, cloud storage, and video editing features like contrast adjustment and trimming. The app also includes tailored camera functionalities for precise image and video capture in clinical settings.
 - **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=swift&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![Core Animation](https://img.shields.io/badge/Core_Animation-2396F3?style=flat&logo=apple&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
 
-### Memo Chat
+### Memo Nas
 ---
 
 <img src="assets/Memo Nas/1.webp" alt="" width="150"> <img src="assets/Memo Nas/2.webp" alt="" width="150"> <img src="assets/Memo Nas/3.webp" alt="" width="150"> <img src="assets/Memo Nas/4.webp" alt="" width="150"> <img src="assets/Memo Nas/5.webp" alt="" width="150">
-- **Description**: Real-time chat application with chat messaging, audio, and video call features.
+- **Description**: Memo Nas is a real-time chat application developed with messaging, audio, and video call functionalities, offering a comprehensive communication experience similar to popular messaging apps.
 - **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-333333?style=flat&logo=apple&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 
 
@@ -34,14 +34,14 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 ---
 
 <img src="assets/Al nader store/1.webp" alt="" width="150"> <img src="assets/Al nader store/2.webp" alt="" width="150"> <img src="assets/Al nader store/3.webp" alt="" width="150"> <img src="assets/Al nader store/4.webp" alt="" width="150">
-- **Description**: E-Commerce Application for electronic devices in KSA with multiple shipping and payment methods.
+- **Description**: E-commerce application for electronic devices in KSA, integrating multiple shipping and payment methods for enhanced user convenience
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-88C7DC?style=flat&logo=flutter&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Online Payment](https://img.shields.io/badge/Online_Payment-00C853?style=flat&logo=payment&logoColor=white)
 
 ### Qoafl 
 ---
 
 <img src="assets/qoafl/1.webp" alt="" width="150"> <img src="assets/qoafl/2.webp" alt="" width="150"> <img src="assets/qoafl/3.webp" alt="" width="150"> <img src="assets/qoafl/4.webp" alt="" width="150"> <img src="assets/qoafl/5.webp" alt="" width="150"> <img src="assets/qoafl/6.webp" alt="" width="150">
-- **Description**: E-Commerce Application offering various products, shipment methods, and electronic payment options.
+- **Description**: An E-Commerce Application offering various products, shipment methods, and electronic payment options.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-88C7DC?style=flat&logo=flutter&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Online Payment](https://img.shields.io/badge/Online_Payment-00C853?style=flat&logo=payment&logoColor=white)
 
 ### BazarCom 
@@ -61,7 +61,7 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 ### Algenie
 ---
 
-- **Description**: Service request application connecting customers and service providers.
+- **Description**: An ordering application for food & drinks from restaurants and markets.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### Zaha 
@@ -75,7 +75,7 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 ---
 
 <img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/1.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/2.jpgraw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/3.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/4.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/5.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/6.jpg?raw=true" alt="" width="150">
-- **Description**:  An application displaying Levant's products with details and prices.
+- **Description**: An application displaying Levant's products with details and prices.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
 
 ### Phenecia 
