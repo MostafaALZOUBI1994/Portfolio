@@ -39,63 +39,148 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 
 <img src="assets/Memo Nas/1.webp" alt="" width="150"> <img src="assets/Memo Nas/2.webp" alt="" width="150"> <img src="assets/Memo Nas/3.webp" alt="" width="150"> <img src="assets/Memo Nas/4.webp" alt="" width="150"> <img src="assets/Memo Nas/5.webp" alt="" width="150">
 - **Description**: Memo Nas is a real-time chat application developed with messaging, audio, and video call functionalities, offering a comprehensive communication experience similar to popular messaging apps.
-- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![CallKit](https://img.shields.io/badge/CallKit-333333?style=flat&logo=apple&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
-
+- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Threading](https://img.shields.io/badge/Threading-0052CC?style=flat&logo=apple&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white)
+![Camera Features](https://img.shields.io/badge/Camera_Features-333333?style=flat&logo=camera&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![VOIP](https://img.shields.io/badge/VOIP-339933?style=flat&logo=voip&logoColor=white)
+![CallKit](https://img.shields.io/badge/CallKit-2396F3?style=flat&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### Gamer VPN
 ---
 
 <img src="assets/Gamer VPN/1.webp" alt="" width="150"> <img src="assets/Gamer VPN/2.webp" alt="" width="150"> <img src="assets/Gamer VPN/3.webp" alt="" width="150"> <img src="assets/Gamer VPN/4.webp" alt="" width="150">
 - **Description**: Free lightweight VPN application.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![OpenVPN](https://img.shields.io/badge/OpenVPN-E3A400?style=flat&logo=openvpn&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- **Technologies Used**: ![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-3333FF?style=flat&logo=vpn&logoColor=white)
+
 
 ### Alnader Store
 ---
 
 <img src="assets/Al nader store/1.webp" alt="" width="150"> <img src="assets/Al nader store/2.webp" alt="" width="150"> <img src="assets/Al nader store/3.webp" alt="" width="150"> <img src="assets/Al nader store/4.webp" alt="" width="150">
 - **Description**: E-commerce application for electronic devices in KSA, integrating multiple shipping and payment methods for enhanced user convenience
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-88C7DC?style=flat&logo=flutter&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Online Payment](https://img.shields.io/badge/Online_Payment-00C853?style=flat&logo=payment&logoColor=white)
+- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=flat&logo=flutter&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Push Notification](https://img.shields.io/badge/Push_Notification-FF6C37?style=flat&logo=pushbullet&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ### Qoafl 
 ---
 
 <img src="assets/qoafl/1.webp" alt="" width="150"> <img src="assets/qoafl/2.webp" alt="" width="150"> <img src="assets/qoafl/3.webp" alt="" width="150"> <img src="assets/qoafl/4.webp" alt="" width="150"> <img src="assets/qoafl/5.webp" alt="" width="150"> <img src="assets/qoafl/6.webp" alt="" width="150">
 - **Description**: An E-Commerce Application offering various products, shipment methods, and electronic payment options.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=flat&logo=flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-88C7DC?style=flat&logo=flutter&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Online Payment](https://img.shields.io/badge/Online_Payment-00C853?style=flat&logo=payment&logoColor=white)
+- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat&logo=bloc&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Push Notification](https://img.shields.io/badge/Push_Notification-FF6C37?style=flat&logo=pushbullet&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### BazarCom 
 ---
 
 - **Description**: Marketplace application for buying and selling in Syria.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
+- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=flat&logo=bloc&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Push Notification](https://img.shields.io/badge/Push_Notification-FF6C37?style=flat&logo=pushbullet&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2E7D32?style=flat&logo=strapi&logoColor=white)
 
 ### City Tale 
 ---
 <img src="assets/city tale/1.webp" alt="" width="150"> <img src="assets/city tale/2.webp" alt="" width="150"> <img src="assets/city tale/3.webp" alt="" width="150"> <img src="assets/city tale/4.webp" alt="" width="150"> <img src="assets/city tale/5.webp" alt="" width="150"> 
 - **Description**: Tourist application for Italy, suggesting trips based on budget and time constraints.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
-
-
+- **Technologies Used**: ![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Push Notification](https://img.shields.io/badge/Push_Notification-FF6C37?style=flat&logo=pushbullet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
+![Google Places](https://img.shields.io/badge/Google_Places-4285F4?style=flat&logo=google-places&logoColor=white)
+![Google Distance Matrix](https://img.shields.io/badge/Google_Distance_Matrix-4285F4?style=flat&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0052CC?style=flat&logo=rest&logoColor=white)
 
 ### Algenie
 ---
 
 - **Description**: An ordering application for food & drinks from restaurants and markets.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+- **Technologies Used**: ![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Push Notification](https://img.shields.io/badge/Push_Notification-FF6C37?style=flat&logo=pushbullet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white)
+![Google Places](https://img.shields.io/badge/Google_Places-4285F4?style=flat&logo=google-places&logoColor=white)
+![Google Distance Matrix](https://img.shields.io/badge/Google_Distance_Matrix-4285F4?style=flat&logo=google&logoColor=white)
+![Rest API](https://img.shields.io/badge/Rest_API-0052CC?style=flat&logo=rest&logoColor=white)
+![Google Cloud Functions](https://img.shields.io/badge/Google_Cloud_Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)
 
 ### Zaha 
 ---
 <img src="https://github.com/MostafaALZOUBI1994/Zaha/blob/master/screenshots/1.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Zaha/blob/master/screenshots/10.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Zaha/blob/master/screenshots/5.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Zaha/blob/master/screenshots/6.jpg?raw=true" alt="" width="150">
 
 - **Description**: An advertisement application showcasing construction companies' services and products.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
+- **Technologies Used**: ![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Rest API](https://img.shields.io/badge/Rest_API-0052CC?style=flat&logo=rest&logoColor=white)
 
 ### Levant 
 ---
 
 <img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/1.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/2.jpgraw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/3.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/4.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/5.jpg?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/Levant/blob/master/screenshots/6.jpg?raw=true" alt="" width="150">
 - **Description**: An application displaying Levant's products with details and prices.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
+- **Technologies Used**: ![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Rest API](https://img.shields.io/badge/Rest_API-0052CC?style=flat&logo=rest&logoColor=white)
 
 ### Phenecia 
 ---
@@ -103,8 +188,14 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 <img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-35-35.png?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-36-07.png?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-36-18.png?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-36-59.png?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-37-19.png?raw=true" alt="" width="150"><img src="https://github.com/MostafaALZOUBI1994/phenicia/blob/master/screenshots/Screenshot_2020-07-02-20-37-22.png?raw=true" alt="" width="150">
 
 - **Description**: An application for tracking shipments within Syria and globally.
-- **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
-
+- **Technologies Used**: ![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![REST](https://img.shields.io/badge/REST-0052CC?style=flat&logo=rest&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Rest API](https://img.shields.io/badge/Rest_API-0052CC?style=flat&logo=rest&logoColor=white)
 
 ## Skills
 
