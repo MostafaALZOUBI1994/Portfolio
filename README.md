@@ -13,7 +13,26 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 <img src="assets/MicroRec/1.webp" alt="" width="150"> <img src="assets/MicroRec/2.webp" alt="" width="150"> <img src="assets/MicroRec/4.webp" alt="" width="150"> <img src="assets/MicroRec/5.webp" alt="" width="150"> <img src="assets/MicroRec/6.webp" alt="" width="150">
 
 - **Description**: MicroRec is a specialized app designed for professionals in ophthalmology, endodontics, ENT, neurosurgery, and microscopy. It offers advanced data management for microscopic images and videos, including session organization, cloud storage, and video editing features like contrast adjustment and trimming. The app also includes tailored camera functionalities for precise image and video capture in clinical settings.
-- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-0052CC?style=flat&logo=apple&logoColor=white) ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=swift&logoColor=white) ![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white) ![Core Animation](https://img.shields.io/badge/Core_Animation-2396F3?style=flat&logo=apple&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+- **Technologies Used**: ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firebase Storage](https://img.shields.io/badge/Firebase_Storage-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Threading](https://img.shields.io/badge/Threading-0052CC?style=flat&logo=apple&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-0052CC?style=flat&logo=apple&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=swift&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-333333?style=flat&logo=apple&logoColor=white)
+![Camera Features](https://img.shields.io/badge/Camera_Features-333333?style=flat&logo=camera&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-00ADD8?style=flat&logo=agile&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![StoreKit](https://img.shields.io/badge/StoreKit-2396F3?style=flat&logo=apple&logoColor=white)
+![Payment](https://img.shields.io/badge/Payment-FFCA28?style=flat&logo=payment&logoColor=black)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ### Memo Nas
 ---
