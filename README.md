@@ -52,7 +52,7 @@ Seasoned Mobile Developer with extensive experience exceeding 5.5 years, adept a
 
 ### City Tale 
 ---
-
+<img src="assets/city tale/1.webp" alt="" width="150"> <img src="assets/city tale/2.webp" alt="" width="150"> <img src="assets/city tale/3.webp" alt="" width="150"> <img src="assets/city tale/4.webp" alt="" width="150"> <img src="assets/city tale/5.webp" alt="" width="150"> 
 - **Description**: Tourist application for Italy, suggesting trips based on budget and time constraints.
 - **Technologies Used**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Provider](https://img.shields.io/badge/Provider-88C7DC?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white) ![Rest API](https://img.shields.io/badge/Rest_API-FF6D00?style=flat&logo=rest&logoColor=white)
 
